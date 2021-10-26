@@ -1,9 +1,8 @@
 - 👋 Hi, I’m @mishalalex
 - 👀 I’m interested in Science & Technology, Space Travel, Archeology and Computer Engineering
 - 🌱 I’m currently learning Blockchain Technology
-- 💞️ I’m looking to collaborate on interesting projects.
 - 📫 How to reach me:
-@BitClout: https://bitclout.com/u/MishalAlexander
+Send me an email - mishalalex@protonmail.com
 
 <!---
 mishalalex/mishalalex is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
