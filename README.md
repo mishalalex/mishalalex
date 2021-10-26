@@ -2,7 +2,7 @@
 - 👀 I’m interested in Science & Technology, Space Travel, Archeology and Computer Engineering
 - 🌱 I’m currently learning Blockchain Technology
 - 📫 How to reach me:
-Send me an email - mishalalex@protonmail.com
+Send me an email with details - mishalalex@protonmail.com
 
 <!---
 mishalalex/mishalalex is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
