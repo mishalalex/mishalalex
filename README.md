@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @mishalalex
-- 👀 I’m interested in Blockchain Technology, Cryptocurrency, Space Travel, Archeology and Computer Engineering
-- 🌱 I’m currently learning Blockchain Technology
+- 👋 Hi, I’m @mishalalex. I am currently working as staff QA engineer at Propine Technologies.
+- 👀 I’ve a good working knowledge in practical applications of Blockchain Technology, Cryptocurrency, DeFi, & Dapps 
+- 🌱 I’m currently learning Backend Engineering using NodeJs
 - 📫 How to reach me:
-Send me an email with details - mishalalex@protonmail.com
+Send me an email with details - mishalalexander20@gmail.com
 
 <!---
 mishalalex/mishalalex is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
