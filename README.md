@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @mishalalex. I am currently working as staff QA engineer at Propine Technologies.
-- 👀 I’ve a good working knowledge in practical applications of Blockchain Technology, Cryptocurrency, DeFi, & Dapps 
-- 🌱 I’m currently learning Backend Engineering using NodeJs
+- 👋 Hi, I’m @mishalalex. I work as staff QA engineer at Propine Technologies.
+- 👀 I’ve been invovled in creating practical working applications using Blockchain Technology, Cryptocurrency, DeFi, & Dapps 
+- 🌱 I’m expaning my knowledge in Backend Engineering using NodeJs
 - 📫 How to reach me:
 
 Send me an email with details - mishalalexander20@gmail.com
