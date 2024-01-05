@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mishalalex. I work as staff QA engineer at Propine Technologies.
+- 👋 Hi, I’m @mishalalex. I work as staff QA engineer at Fortris Technologies - https://fortris.com/.
 - 👀 I’ve been invovled in creating practical working applications using Blockchain Technology, Cryptocurrency, DeFi, & Dapps 
 - 🌱 I’m expaning my knowledge in Backend Engineering using NodeJs
 - 📫 How to reach me:
