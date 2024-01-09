@@ -7,6 +7,8 @@ Send me an email with details - mishalalexander20@gmail.com
 
 Read my blog - https://opennodes.com/profile/561/posts
 
+Projects: 
+1. Passenger Counter = https://luminous-capybara-e8cef2.netlify.app/
 <!---
 mishalalex/mishalalex is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
