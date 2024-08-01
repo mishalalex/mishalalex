@@ -3,9 +3,10 @@
 - 🌱 I'm a quality assurance expert who can virtually work with any Java or JavaScript/TypeScript based automation test frameworks (Playwright, Cypress, WebDriverIO, RestAssured, Selenium).
 - 📫 How to reach me:
 
-Send me an email with details - mishalalexander20@gmail.com
+LinkedIn - https://www.linkedin.com/in/mishal-alexander-07b6ba154/
+Email - mishalalexander20@gmail.com
 
-Read my blog - https://opennodes.com/profile/561/posts
+Read my blog - https://www.publish0x.com/mishalalexander
 
 Projects: 
 1. Project Web Scrapper = A simple python based project where I have created a web scrapper to scrape data from a news site and created a 'search engine' based on the scrapped data where keywords can be used to look up articles
