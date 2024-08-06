@@ -2,7 +2,7 @@
 - 🧑‍🏭 What can I do: UI & API Automation Framework development from scratch, Functional and Automation testing, Software quality assurance, Managing mutli member QA team.
 - 🗺️ Domains I have worked with: Blockchain, Cryptocurrencies, DeFi, Fintech, & E-commerce.
 - ⚔️ Coding languages I am comfortable with: Java, JavaScript, TypeScript, Python.
-- 🪓 Testing technologies I have worked with: Selenium, RestAssured, Playwright, Cypress, Grafana, Jmeter, Gatling, Jira, Confluence, ClickUp, Excel, Word.
+- 🪓 Testing technologies I have worked with: Selenium, RestAssured, Playwright, Cypress, Jmeter (Certified by BlazeMeter), Gatling (Certified by Gatling Academy), Grafana, Jira, Confluence, ClickUp, Excel, Word.
 - 📫 How to reach me: LinkedIn or Email.
 - 🖼️ Fun fact: My profile picture is an NFT in Solana network.
 
