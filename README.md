@@ -1,6 +1,6 @@
 - 👨‍💼 Who am I: Mishal Alexander. I work as software QA engineer at Fortris Technologies - https://fortris.com/.
 - 🧑‍🏭 What can I do: UI & API Automation Framework development from scratch, Functional and Automation testing, Software quality assurance, Managing mutli member QA team.
-- 🗺️ Domains I have worked with: Blockchain, Cryptocurrencies, DeFi, Fintech, & E-commerce.
+- 🗺️ Domains I have worked with: Fintech, E-commerce, Digital Treasury Management, Blockchain, Cryptocurrencies, & DeFi
 - ⚔️ Coding languages I am comfortable with: Java, JavaScript, TypeScript, Python.
 - 🪓 Testing technologies I have worked with: Selenium, RestAssured, Playwright, Cypress, Jmeter (Certified by BlazeMeter), Gatling (Certified by Gatling Academy), Grafana, Jira, Confluence, ClickUp, Excel, Word.
 - 📫 How to reach me: LinkedIn or Email.
