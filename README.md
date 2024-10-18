@@ -8,16 +8,14 @@
 
 LinkedIn - https://www.linkedin.com/in/mishal-alexander-07b6ba154/
 
-Email - mishalalexander20@gmail.com
-
 Read my blog - https://www.publish0x.com/mishalalexander
 
 Personal Projects: 
-1. Project Web Scrapper = A python based project where I have created a web scrapper to scrape data from a news site and created a 'search engine' based on the scrapped data where keywords can be used to look up articles
-2. RestAssured Framework Demo = A rest automation framework built with java & maven using restassured
-3. Playwright E2E Framework demo = A playwright automation framework built with typescript
-4. Cypress E2E Framework demo = A cypress automation framework built with javascript
-5. Gatling ecommerce framework demo = A framework built to load test demostore ecommerce website using gatling
+1. Project Web Scrapper = A medium complex self made python based project where I have created a web scrapper to scrape data from a news site and created a 'search engine' with the scrapped data where keywords can be used to look up articles
+2. RestAssured Framework Demo = A simple rest automation framework built with java & maven using restassured
+3. Playwright E2E Framework demo = A simple playwright automation framework built with typescript
+4. Cypress E2E Framework demo = A simple cypress automation framework built with javascript
+5. Gatling ecommerce framework demo = A simple framework built to load test demostore ecommerce website using gatling
 6. Planet Analyser = A simple file application built using NodeJS which showcases quick processing of bulky data
 7. File System App = A simple file system commmand prompt application powered by NodeJS
 <!---
