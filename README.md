@@ -8,7 +8,7 @@
 
 LinkedIn - https://www.linkedin.com/in/mishal-alexander-07b6ba154/
 
-Read my blog - https://www.publish0x.com/mishalalexander
+Read my blog - https://mishalalex.hashnode.dev
 
 Personal Projects: 
 1. Project Web Scrapper = A medium complex self made python based project where I have created a web scrapper to scrape data from a news site and created a 'search engine' with the scrapped data where keywords can be used to look up articles
